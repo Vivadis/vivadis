@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Vivadis)
 
-## I'm a Fullstack Developer
+## I'm a Junior Python Developer
 - 💪 I like to write code
 - 🎉 I love to sports and play the guitar
 - 🥅 I am constantly learning new things
